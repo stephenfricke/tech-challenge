@@ -1,0 +1,8 @@
+.box_placeholder {
+  height: 500px;
+  width: 500px;
+  max-width: 100%;
+  background: whitesmoke; }
+
+.secondary_section_header span:first-child {
+  margin-right: 4px; }

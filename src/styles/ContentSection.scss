@@ -1,0 +1,9 @@
+@import "./colors";
+
+.content_section {
+  margin: 0 8px;
+  .container {
+    padding: 50px 0;
+    border-bottom: 2px solid $light-gray;
+  }
+}

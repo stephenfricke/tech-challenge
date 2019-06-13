@@ -1,0 +1,14 @@
+@import "./colors";
+
+.box_placeholder {
+  height: 500px;
+  width: 500px;
+  max-width: 100%;
+  background: $light-gray;
+}
+
+.secondary_section_header {
+  span:first-child {
+    margin-right: 4px;
+  }
+}

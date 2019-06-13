@@ -1,0 +1,13 @@
+@import "./node_modules/bootstrap/scss/bootstrap";
+@import "./colors";
+
+.caption_content {
+  text-align: left;
+}
+.section_circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background: $dark-gray;
+  margin: 8px auto;
+}
